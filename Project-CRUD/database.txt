@@ -1,0 +1,8 @@
+romadhona_2020_1,2020,romadhona,gramedia,belajar bahasa python
+romadhona_2020_1,2021,romadhona,gramedia,belajar bahasa java
+romadhona_2020_1,2022,romadhona,gramedia,belajar bahasa c
+romadhona_2020_1,2023,romadhona,gramedia,belajar bahasa go
+romadhona_2020_1,2024,romadhona,gramedia,belajar bahasa javaScript
+andreahirata_2007_1,2007,andrea hirata,bentang pustaka,laskar pelangi
+tereliye_2010_1,2010,tere liye,bentang pustaka,pulang
+jkrowling_2000_1,2000,j k rowling,gramedia,harry potter
